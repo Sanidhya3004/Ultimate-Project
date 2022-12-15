@@ -1,0 +1,14 @@
+.div_speed
+{
+    float:left
+}
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+}
